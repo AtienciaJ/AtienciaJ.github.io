@@ -1,20 +1,4 @@
 # AtienciaJ.github.io
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            background-color: #1f5e89; 
-            color: #ffffff; 
-            font-family: Arial, sans-serif; 
-            text-align: center; 
-        }
-        .welcome-text {
-            font-size: 32px; 
-        }
-    </style>
 </head>
 <body>
     <div class="welcome-text">
